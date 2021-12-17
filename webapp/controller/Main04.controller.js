@@ -9,6 +9,7 @@ sap.ui.define([
 
         return Controller.extend("AppFiorialuno04.appfiorialuno04.controller.Main04", {
             onInit: function () {
+                // comtario igual ao C
 
             }
         });
